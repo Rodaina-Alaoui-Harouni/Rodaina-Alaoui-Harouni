@@ -1,9 +1,9 @@
 <!-- Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Hey%20there!%20I'm%20Roudaina&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Software%20Engineering%20Student&descSize=18&descAlignY=58" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Hey%20there!%20I%20am%20Roudaina&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Software%20Engineering%20Student&descSize=18&descAlignY=58" width="100%" alt="banner"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+%26+Software+Engineering+Student+%F0%9F%8E%93;I+turn+ideas+into+working+projects+%F0%9F%9A%80;Open+to+internships+%26+work-study+(alternance)+%F0%9F%A4%9D;Based+in+Morocco+%F0%9F%87%B2%F0%9F%87%A6)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=AI+and+Software+Engineering+Student+%F0%9F%8E%93;I+turn+ideas+into+working+projects+%F0%9F%9A%80;Open+to+internships+and+alternance+%F0%9F%A4%9D;Based+in+Morocco+%F0%9F%93%8D)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roudaina-alaoui-harouni-5339a2229/)
 
@@ -13,7 +13,7 @@
 
 ### 👋 About me
 
-I'm **Roudaina**, an AI & software engineering student based in **Morocco** 🇲🇦.
+I'm **Roudaina**, an AI & software engineering student based in **Morocco** 📍.
 
 I love building things: machine learning experiments, web apps, APIs, and everything in between.
 If an idea pops into my head, chances are I'll try to build it. 🚀
