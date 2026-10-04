@@ -18,7 +18,7 @@ I'm **Roudaina**, an AI & software engineering student based in **Morocco** 📍
 I love building things: machine learning experiments, web apps, APIs, and everything in between.
 If an idea pops into my head, chances are I'll try to build it. 🚀
 
-- 🔭 Currently working on: **[your current project]**
+
 - 🌱 Currently learning: **Deep Learning, Cloud & DevOps**
 - 🎯 Looking for: **an internship & a work-study program (alternance)**, starting [month, year]
 - 💬 Ask me about: **AI, Python, web development, gRPC**
